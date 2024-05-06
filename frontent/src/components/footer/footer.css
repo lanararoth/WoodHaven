@@ -1,0 +1,41 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: #fff;
+}
+
+.footer__text{
+    line-height: 30px;
+    color: #000;
+}
+.footer__quick-links{
+    font-size: 0.9rem;
+    margin-top: 50px;
+}
+
+.quick__links-title{
+    margin-bottom: 20px;
+    color: #000;
+    font-size: 1.1rem;
+}
+
+.footer__contact{
+    color: #000;
+}
+
+.footer__contact p{
+    color: #000;
+    font-size: 0.9rem;
+}
+
+.footer__copyright{
+    color: #000;
+    font-size: 0.9rem;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.logo{
+    width: 3px;
+    height: 3px;
+}
